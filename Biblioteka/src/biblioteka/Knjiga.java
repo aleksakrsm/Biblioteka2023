@@ -73,5 +73,5 @@ public class Knjiga {
 		Knjiga other = (Knjiga) obj;
 		return isbn == other.isbn;
 	}
-
+//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
 }
